@@ -1,0 +1,5 @@
+D:\Documents\C#\Lab3(Login)\Lab3(Login)\obj\Debug\Lab3(Login).csproj.AssemblyReference.cache
+D:\Documents\C#\Lab3(Login)\Lab3(Login)\obj\Debug\Lab3(Login).csproj.SuggestedBindingRedirects.cache
+D:\Documents\C#\Lab3(Login)\Lab3(Login)\obj\Debug\Lab3_Login_.Properties.Resources.resources
+D:\Documents\C#\Lab3(Login)\Lab3(Login)\obj\Debug\Lab3(Login).csproj.GenerateResource.cache
+D:\Documents\C#\Lab3(Login)\Lab3(Login)\obj\Debug\Lab3(Login).csproj.CoreCompileInputs.cache
